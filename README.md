@@ -15,6 +15,10 @@ A simple and intuitive to-do list application to help you manage your tasks effi
 
 This project is a web-based to-do list application built with modern web technologies. It allows users to add, edit, delete, and mark tasks as complete. The main goal is to provide a straightforward and effective tool for managing daily tasks and improving productivity.
 
+## Description
+
+This project is a web-based to-do list application built with modern web technologies. It allows users to add, edit, delete, and mark tasks as complete. The main goal is to provide a straightforward and effective tool for managing daily tasks and improving productivity.
+
 ## Features
 
 - Add new tasks
